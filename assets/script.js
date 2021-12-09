@@ -19,10 +19,10 @@ function writePassword() {
 function generatePassword() {
   var length = window.prompt("How many characters do you want in password?");
   if (length <= 128 && length >= 8) {
-    var confirmLower
-    var confirmUpper
-    var confirmNumber
-    var confirmSpecial
+    var confirmLower = window.confirm("Do you want lower case letters?");
+    var confirmUpper = window.confirm("Do you want upper case letters?");
+    var confirmNumber = window.confirm("Do you want to add numbers?");
+    var confirmSpecial = window.confirm("Do you want to add special characters?");
   }
 }
 
