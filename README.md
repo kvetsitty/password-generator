@@ -1,17 +1,18 @@
-## Password Generator Starter Code
+# Password Generator Starter Code
 
-# Purpose
+## Purpose
+For this project, I created a password generator that allows a user to input their criteria to automate a random password using Javascript. 
 
-# Built With
+## Built With
 * HTML
 * CSS
 * JavaScript
 
-# Website
+## Website
 https://kvetsitty.github.io/password-generator/
 
-# Screenshot
+## Screenshot
 ![passwordgenerator](https://user-images.githubusercontent.com/87582406/145339246-37081dce-d602-4267-900c-5fb723e5b9ea.JPG)
 
-# Contribution
+## Contribution
 Made by Kristine Etsitty
